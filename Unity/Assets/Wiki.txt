@@ -1,9 +1,0 @@
-Folder structure
--Configuration: contains configuration asset for the application
--SDK (Do not modify!): Contains all the SDK classes and utilities
--TamagotchiAR
---	Materials: add here all the Alien and object imported mesh. 
-	Also add the shaders and the texure in the related folder
---Prefab: add here the prefab nedeed for the game. Do not add the prefab to the scene
---Scene: main scene
---Script: add all the needed scripts here
